@@ -1,0 +1,5 @@
+C:\Projeler\TestStand\TestStand\obj\Debug\TestStand.csprojAssemblyReference.cache
+C:\Projeler\TestStand\TestStand\bin\Debug\YamahaHex.dll
+C:\Projeler\TestStand\TestStand\bin\Debug\YamahaHex.pdb
+C:\Projeler\TestStand\TestStand\obj\Debug\YamahaHex.dll
+C:\Projeler\TestStand\TestStand\obj\Debug\YamahaHex.pdb
