@@ -1,0 +1,11 @@
+C:\Projeler\TestStandUI\TestStandUI\bin\Debug\TestStandUI.exe.config
+C:\Projeler\TestStandUI\TestStandUI\bin\Debug\TestStandUI.exe
+C:\Projeler\TestStandUI\TestStandUI\bin\Debug\TestStandUI.pdb
+C:\Projeler\TestStandUI\TestStandUI\obj\Debug\TestStandUI.csprojAssemblyReference.cache
+C:\Projeler\TestStandUI\TestStandUI\obj\Debug\TestStandUI.Form1.resources
+C:\Projeler\TestStandUI\TestStandUI\obj\Debug\TestStandUI.Properties.Resources.resources
+C:\Projeler\TestStandUI\TestStandUI\obj\Debug\TestStandUI.csproj.GenerateResource.cache
+C:\Projeler\TestStandUI\TestStandUI\obj\Debug\TestStandUI.csproj.CopyComplete
+C:\Projeler\TestStandUI\TestStandUI\obj\Debug\TestStandUI.exe
+C:\Projeler\TestStandUI\TestStandUI\obj\Debug\TestStandUI.pdb
+C:\Projeler\TestStandUI\TestStandUI\bin\Debug\YamahaHex.dll
